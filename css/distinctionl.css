@@ -1,4 +1,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
+.lblue {color: #2f5496;}
+.dblue {color: #1f3864;}
+
 body {
   padding-top: 50px;
   padding-bottom: 20px;
