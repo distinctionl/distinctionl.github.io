@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,17 +24,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2921035"
-     inkscape:cx="290.18333"
-     inkscape:cy="801.27237"
+     inkscape:zoom="2.2294442"
+     inkscape:cx="251.15179"
+     inkscape:cy="893.05786"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4196"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3075" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +57,7 @@
      id="layer1">
     <g
        id="g2989"
-       transform="translate(110.47027,137.42428)">
+       transform="translate(105.08776,585.96657)">
       <text
          id="text2991"
          style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#2f5496;font-family:Trebuchet MS"
@@ -73,51 +77,55 @@
          x="301.78928"
          xml:space="preserve"> </text>
     </g>
-    <g
-       id="g3828"
-       transform="translate(-19.196341,-13.960975)">
-      <g
-         transform="translate(223.64426,233.23144)"
-         id="g2989-1">
-        <g
-           transform="translate(-82.914928,-6.4147762)"
-           id="g3056">
-          <g
-             id="g4029">
-            <rect
-               style="opacity:0.94000004999999998;fill:none;stroke:#2f5496;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-               id="rect3027"
-               width="60"
-               height="60"
-               x="136.11951"
-               y="230.84604"
-               transform="translate(-140.72933,-226.81666)" />
-            <g
-               transform="translate(2.2167194e-7,0.20349174)"
-               id="g4024">
-              <text
-                 id="text2991-7"
-                 style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#2f5496;font-family:Trebuchet MS"
-                 y="55.651279"
-                 x="0"
-                 xml:space="preserve">d</text>
-              <text
-                 id="text2993-4"
-                 style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
-                 y="55.651279"
-                 x="33.378624"
-                 xml:space="preserve">l</text>
-            </g>
-          </g>
-        </g>
-        <text
-           xml:space="preserve"
-           x="301.78928"
-           y="56.087559"
-           style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
-           id="text2995-0"> </text>
-      </g>
-    </g>
+    <rect
+       style="opacity:0.94000005;fill:none;stroke:#2f5496;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3027"
+       width="60"
+       height="60"
+       x="116.92316"
+       y="216.88506" />
+    <text
+       xml:space="preserve"
+       x="121.53299"
+       y="268.71045"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#2f5496;font-family:Trebuchet MS"
+       id="text2991-7">d</text>
+    <text
+       xml:space="preserve"
+       x="154.91162"
+       y="268.71045"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2993-4">l</text>
+    <text
+       xml:space="preserve"
+       x="506.23718"
+       y="275.35803"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2995-0"> </text>
+    <text
+       xml:space="preserve"
+       x="506.28769"
+       y="149.62148"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2995-0-1"> </text>
+    <text
+       xml:space="preserve"
+       x="579.69562"
+       y="149.72485"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2995-0-5-3"> </text>
+    <text
+       xml:space="preserve"
+       x="656.04468"
+       y="149.72485"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2995-0-5-2-9"> </text>
+    <text
+       xml:space="preserve"
+       x="731.95746"
+       y="149.72485"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       id="text2995-0-5-2-6-3"> </text>
     <g
        transform="translate(54.211581,-13.857616)"
        id="g3828-9">
@@ -257,6 +265,251 @@
              y="56.087559"
              x="301.78928"
              xml:space="preserve"> </text>
+        </g>
+      </g>
+    </g>
+    <text
+       id="text2991-1"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;text-anchor:start;fill:#2f5496;font-family:Trebuchet MS"
+       y="332.2247"
+       x="110.33666"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.33000001px;writing-mode:lr-tb;text-anchor:start;font-family:Leelawadee;-inkscape-font-specification:Leelawadee Bold Oblique"
+         id="tspan3024">distinction<tspan
+   style="fill:#1f3864;fill-opacity:1"
+   id="tspan3798">l</tspan></tspan></text>
+    <text
+       id="text2995-7"
+       style="font-size:59.99786758px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#1f3864;font-family:Trebuchet MS"
+       y="419.29959"
+       x="421.92657"
+       xml:space="preserve"> </text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="113.43651"
+       y="578.12378"
+       id="text3026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="113.43651"
+         y="578.12378"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-2.20000005px;fill:#2f5496;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS">distinction<tspan
+   style="letter-spacing:-2.20000005px;fill:#1f3864;fill-opacity:1"
+   id="tspan3800">l</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold Oblique"
+       x="115.31165"
+       y="377.70911"
+       id="text3026-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3028-7"
+         x="115.31165"
+         y="377.70911"
+         style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-2.20000005px;writing-mode:lr-tb;text-anchor:start;fill:#2f5496;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold Oblique">distinction<tspan
+   style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-2.20000005px;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold Oblique"
+   id="tspan3800-4">l</tspan></tspan></text>
+    <text
+       id="text2991-0"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2f5496;font-family:Leelawadee;-inkscape-font-specification:Leelawadee Bold"
+       y="439.15155"
+       x="112.16386"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.33000001px;writing-mode:lr-tb;text-anchor:start;font-family:Leelawadee;-inkscape-font-specification:Leelawadee Bold"
+         id="tspan3024-9">distinction<tspan
+   style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;font-family:Leelawadee;-inkscape-font-specification:Leelawadee Bold"
+   id="tspan3798-4">l</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+       x="112.33374"
+       y="482.50052"
+       id="text3026-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3028-8"
+         x="112.33374"
+         y="482.50052"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-2.20000005px;writing-mode:lr-tb;text-anchor:start;fill:#2f5496;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">distinction<tspan
+   style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-2.20000005px;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+   id="tspan3800-2">l</tspan></tspan></text>
+    <g
+       transform="translate(10.763806,447.33067)"
+       id="text3026-8-1"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">
+      <path
+         sodipodi:nodetypes="ccccsccsscc"
+         inkscape:connector-curvature="0"
+         id="path3925"
+         style="fill:#1f3864;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+         d="m 340.68934,48.790717 5.85938,-2.15625 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.54686,1.113286 2.95312,1.113281 1.40624,5e-6 2.71874,-0.382807 3.9375,-1.148437 l 0,5.390625 c -1.35939,0.46875 -3.29689,0.703124 -5.8125,0.703125 -2.50001,-10e-7 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z" />
+    </g>
+    <g
+       id="g3077"
+       transform="translate(10.316473,-331.9213)">
+      <g
+         id="g3851">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3026-8-15"
+           y="530.26892"
+           x="104.4169"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+           xml:space="preserve"><tspan
+             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.5px;writing-mode:lr-tb;text-anchor:start;fill:#2f5496;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+             y="530.26892"
+             x="104.4169"
+             id="tspan3028-8-2"
+             sodipodi:role="line">distinction</tspan></text>
+        <g
+           transform="translate(-12.15634,447.76692)"
+           id="text3026-8-1-6"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">
+          <path
+             sodipodi:nodetypes="ccccsccsscc"
+             inkscape:connector-curvature="0"
+             id="path3925-1"
+             style="fill:#1f3864;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+             d="m 340.68934,48.060183 5.85938,-1.425716 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.1094,1.113274 2.29693,1.113281 1.05627,6e-6 2.13777,-0.320699 2.59364,-0.648253 l 0,5.09 c -1.35939,0.46875 -2.34675,0.503565 -3.81245,0.503566 -2.50001,2e-6 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4196">
+      <g
+         id="g4221">
+        <rect
+           style="opacity:0.94000005;fill:none;stroke:#2f5496;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3027-5"
+           width="50.400002"
+           height="50.400002"
+           x="116.77367"
+           y="100.94853" />
+        <g
+           id="g3077-4"
+           transform="translate(58.650969,-477.47508)">
+          <g
+             transform="translate(0.75008824,0)"
+             id="g4215">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3026-8-15-9"
+               y="621.323"
+               x="60.908302"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+               xml:space="preserve"><tspan
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.5px;writing-mode:lr-tb;text-anchor:start;fill:#2f5496;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 y="621.323"
+                 x="60.908302"
+                 id="tspan3028-8-2-4"
+                 sodipodi:role="line">d</tspan></text>
+            <g
+               transform="translate(-250.03831,538.821)"
+               id="text3026-8-1-6-8"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1f3864;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">
+              <path
+                 sodipodi:nodetypes="ccccsccsscc"
+                 inkscape:connector-curvature="0"
+                 id="path3925-1-8"
+                 style="fill:#1f3864;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 d="m 340.68934,48.060183 5.85938,-1.425716 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.1094,1.113274 2.29693,1.113281 1.05627,6e-6 2.13777,-0.320699 2.59364,-0.648253 l 0,5.09 c -1.35939,0.46875 -2.34675,0.503565 -3.81245,0.503566 -2.50001,2e-6 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4327">
+        <rect
+           style="opacity:0.94000004999999998;fill:none;stroke:#646464;stroke-width:2.09999989999999980;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3027-5-7"
+           width="50.400002"
+           height="50.400002"
+           x="240.78558"
+           y="100.47381" />
+        <g
+           style="fill:#646464;fill-opacity:1"
+           id="g3077-4-9"
+           transform="translate(182.66288,-477.9498)">
+          <g
+             style="fill:#646464;fill-opacity:1"
+             transform="translate(0.75008824,0)"
+             id="g4215-31">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3026-8-15-9-9"
+               y="621.323"
+               x="60.908302"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#646464;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+               xml:space="preserve"><tspan
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.50000000000000000px;writing-mode:lr-tb;text-anchor:start;fill:#646464;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 y="621.323"
+                 x="60.908302"
+                 id="tspan3028-8-2-4-8"
+                 sodipodi:role="line">d</tspan></text>
+            <g
+               transform="translate(-250.03831,538.821)"
+               id="text3026-8-1-6-8-6"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#646464;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">
+              <path
+                 sodipodi:nodetypes="ccccsccsscc"
+                 inkscape:connector-curvature="0"
+                 id="path3925-1-8-5"
+                 style="fill:#646464;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 d="m 340.68934,48.060183 5.85938,-1.425716 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.1094,1.113274 2.29693,1.113281 1.05627,6e-6 2.13777,-0.320699 2.59364,-0.648253 l 0,5.09 c -1.35939,0.46875 -2.34675,0.503565 -3.81245,0.503566 -2.50001,2e-6 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(62.561621,-0.92326643)"
+         id="g4221-0">
+        <g
+           id="g4311">
+          <rect
+             y="100.94853"
+             x="116.77367"
+             height="50.400002"
+             width="50.400002"
+             id="rect3027-5-2"
+             style="opacity:0.94000005;fill:none;stroke:#000000;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <g
+             style="fill:#000000;fill-opacity:1"
+             transform="translate(58.650969,-477.47508)"
+             id="g3077-4-8">
+            <g
+               style="fill:#000000;fill-opacity:1"
+               id="g4215-6"
+               transform="translate(0.75008824,0)">
+              <text
+                 xml:space="preserve"
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 x="60.908302"
+                 y="621.323"
+                 id="text3026-8-15-9-0"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan3028-8-2-4-2"
+                   x="60.908302"
+                   y="621.323"
+                   style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.5px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">d</tspan></text>
+              <g
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 id="text3026-8-1-6-8-48"
+                 transform="translate(-250.03831,538.821)">
+                <path
+                   d="m 340.68934,48.060183 5.85938,-1.425716 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.1094,1.113274 2.29693,1.113281 1.05627,6e-6 2.13777,-0.320699 2.59364,-0.648253 l 0,5.09 c -1.35939,0.46875 -2.34675,0.503565 -3.81245,0.503566 -2.50001,2e-6 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z"
+                   style="fill:#000000;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                   id="path3925-1-8-6"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="ccccsccsscc" />
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>
