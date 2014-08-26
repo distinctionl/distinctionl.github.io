@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2294442"
-     inkscape:cx="251.15179"
-     inkscape:cy="893.05786"
+     inkscape:cx="181.17919"
+     inkscape:cy="977.60461"
      inkscape:document-units="px"
-     inkscape:current-layer="g4196"
+     inkscape:current-layer="g3875"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="706"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -351,7 +351,10 @@
     </g>
     <g
        id="g3077"
-       transform="translate(10.316473,-331.9213)">
+       transform="translate(10.316473,-327.43588)"
+       inkscape:export-filename="C:\Users\Olly\Documents\Websites\distinctionl\distinctionl\media\logo_40.png"
+       inkscape:export-xdpi="99.074471"
+       inkscape:export-ydpi="99.074471">
       <g
          id="g3851">
         <text
@@ -382,7 +385,10 @@
     <g
        id="g4196">
       <g
-         id="g4221">
+         id="g4221"
+         inkscape:export-filename="C:\Users\Olly\Documents\Websites\distinctionl\distinctionl\media\logo16.png"
+         inkscape:export-xdpi="27.428572"
+         inkscape:export-ydpi="27.428572">
         <rect
            style="opacity:0.94000005;fill:none;stroke:#2f5496;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
            id="rect3027-5"
@@ -508,6 +514,48 @@
                    inkscape:connector-curvature="0"
                    sodipodi:nodetypes="ccccsccsscc" />
               </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3077-1"
+       transform="translate(8.1799262,-442.51496)"
+       inkscape:export-filename="C:\Users\Olly\Documents\Websites\distinctionl\distinctionl\media\logo_inv_25.png"
+       inkscape:export-xdpi="61.921543"
+       inkscape:export-ydpi="61.921543">
+      <g
+         id="g3851-7">
+        <g
+           id="g3875">
+          <g
+             id="g3881"
+             inkscape:export-filename="C:\Users\Olly\Documents\Websites\distinctionl\distinctionl\media\logo_inv_25.png"
+             inkscape:export-xdpi="49.537235"
+             inkscape:export-ydpi="49.537235">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3026-8-15-4"
+               y="530.26892"
+               x="104.4169"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+               xml:space="preserve"><tspan
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-1.50000000000000000px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 y="530.26892"
+                 x="104.4169"
+                 id="tspan3028-8-2-0"
+                 sodipodi:role="line">distinction</tspan></text>
+            <g
+               transform="translate(-12.15634,447.76692)"
+               id="text3026-8-1-6-9"
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.78306878;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold">
+              <path
+                 sodipodi:nodetypes="ccccsccsscc"
+                 inkscape:connector-curvature="0"
+                 id="path3925-1-4"
+                 style="fill:#ffffff;fill-opacity:0.78306878;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
+                 d="m 340.68934,48.060183 5.85938,-1.425716 0,26.469094 c -10e-6,1.796883 0.28124,3.066413 0.84375,3.808594 0.56249,0.742192 1.1094,1.113274 2.29693,1.113281 1.05627,6e-6 2.13777,-0.320699 2.59364,-0.648253 l 0,5.09 c -1.35939,0.46875 -2.34675,0.503565 -3.81245,0.503566 -2.50001,2e-6 -4.42188,-0.707031 -5.76562,-2.121094 -1.34376,-1.414059 -2.01563,-3.425776 -2.01563,-6.035156 z" />
             </g>
           </g>
         </g>
